@@ -2,7 +2,7 @@
 A E-Commerce Web site build using React js
 
 ## Deployed Site
-This project was deployed with [Netlfiy](https://resilient-praline-d52d2d.netlify.app).
+This project was deployed with [Netlify](https://resilient-praline-d52d2d.netlify.app).
 
 
 ## Technologies Used
@@ -21,7 +21,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
