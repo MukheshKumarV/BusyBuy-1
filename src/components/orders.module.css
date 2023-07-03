@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    text-align: center;
+    width: 50%;
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+th{
+    border-bottom: 2px solid #000;
+}
+th,
+td {
+    padding: 10px;
+    
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+.table-title {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+p{
+    font-weight: bold;
+        font-size: 20px;
+}

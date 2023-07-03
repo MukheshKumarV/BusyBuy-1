@@ -1,0 +1,69 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0de6d8;
+    padding: 3px;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+}
+
+.navbar-logo {
+    flex: 1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navbar-buttons {
+    flex: 2;
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.navbar-button {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 8px 16px;
+    border: none;
+    padding-left: 2px;
+    background-color: #0de6d8;
+    color: #161515;
+    cursor: pointer;
+    border-radius: 25%;
+    -webkit-border-radius: 25%;
+    -moz-border-radius: 25%;
+    -ms-border-radius: 25%;
+    -o-border-radius: 25%;
+}
+.navbar-button-log {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 8px 16px;
+    border: none;
+    background-color: #0de6d8;
+    color: #161515;
+    cursor: pointer;
+    border-radius: 20%;
+    -webkit-border-radius: 20%;
+    -moz-border-radius: 20%;
+    -ms-border-radius: 20%;
+    -o-border-radius: 20%;
+}
+
+.navbar-button-login {
+    background-color: #007bff;
+}
+.navbar-button-logout {
+    background-color: #c90f21;
+}
+.navbar-buttons-inside{
+    gap: 0px;
+    padding: auto;
+    display: flex;
+    
+}
+.icon {
+    width: 30px;
+    height: 30px;
+}
